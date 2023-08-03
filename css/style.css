@@ -1,0 +1,22 @@
+#grid1 {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+#grid5 {
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: end;
+}
+#grid2 {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+}
+#grid3 {
+    display: grid;
+    
+    grid-template-columns: 2fr 2fr;
+}
+#grid4 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
